@@ -1,0 +1,48 @@
+{
+  "name": "students-fe",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "npm": "6.14.4",
+    "node": "12.16.2"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.1.0",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.4.1",
+    "history": "^4.10.1",
+    "mailjet-sendemail": "^1.1.4",
+    "moment": "2.18.1",
+    "node-mailjet": "^3.3.1",
+    "react": "^16.12.0",
+    "react-calendar": "^3.0.1",
+    "react-datepicker": "^2.14.1",
+    "react-dom": "^16.12.0",
+    "react-router": "^3.2.6",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.3.1",
+    "reactstrap": "^8.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "postinstall": "npm run build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
