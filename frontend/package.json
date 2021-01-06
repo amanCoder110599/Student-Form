@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@sendgrid/mail": "^7.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "history": "^4.10.1",
     "mailjet-sendemail": "^1.1.4",
