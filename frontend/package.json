@@ -12,7 +12,7 @@
     "bootstrap": "^4.4.1",
     "history": "^4.10.1",
     "mailjet-sendemail": "^1.1.4",
-    "moment": "2.18.1",
+    "moment": "2.29.4",
     "node-mailjet": "^3.3.1",
     "react": "^16.12.0",
     "react-calendar": "^3.0.1",
